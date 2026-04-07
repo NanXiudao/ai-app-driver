@@ -4,23 +4,6 @@
 
 A practical approach to turn existing applications into AI-driven apps through code understanding, capability extraction, driver layers, and task skills.
 
-下面给你一套可以直接放进仓库的初始内容。
-
-你可以先建这几个文件：
-
-* `README.md`
-* `docs/vision.md`
-* `docs/skills/README.md`
-* `docs/cases/README.md`
-* `docs/templates/README.md`
-
-然后再发一篇 GitHub Discussion 首帖。
-
-先给你完整内容。
-
-README.md
-
-````md
 # ai-app-driver
 
 Turn existing applications into AI-driven apps by teaching AI how to understand codebases, extract capabilities, design driver layers, implement them, and author task skills.
